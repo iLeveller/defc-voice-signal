@@ -1,0 +1,12 @@
+{
+  "name": "defc-voice-signal",
+  "version": "1.0.0",
+  "type": "commonjs",
+  "main": "defc-voice-signal-server.js",
+  "scripts": {
+    "start": "node defc-voice-signal-server.js"
+  },
+  "dependencies": {
+    "ws": "^8.18.0"
+  }
+}
